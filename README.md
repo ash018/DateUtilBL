@@ -31,5 +31,7 @@ Sample Output:
 {"message": "Success", value:[88200,25200]}
 ```
 # Task C
+```
 docker build -t taskBL:latest
 docker run -d -p 5000:5000 taskBL
+```
